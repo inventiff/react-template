@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "heybourn.headwind",
+    "bradlc.vscode-tailwindcss",
+    "antfu.vite",
+    "ZixuanChen.vitest-explorer",
+    "dbaeumer.vscode-eslint",
+    "rvest.vs-code-prettier-eslint",
+    "esbenp.prettier-vscode"
+  ]
+}

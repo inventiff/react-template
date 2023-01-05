@@ -1,0 +1,1696 @@
+// Vitest Snapshot v1
+
+exports[`Snapshot counter tests > should +1 when "increase" is pressed 1`] = `
+<body>
+  <div>
+    <div
+      class="py-24 bg-white dark:bg-gray-900 sm:py-32 lg:py-40"
+    >
+      <div
+        class="px-6 mx-auto max-w-7xl lg:px-8"
+      >
+        <div
+          class="sm:text-center"
+        >
+          <h2
+            class="text-lg font-semibold leading-8 text-[#FFBD0E]"
+          >
+            inventiff.
+          </h2>
+          <p
+            class="flex justify-center gap-2 text-3xl font-bold tracking-tight text-gray-900 items-centermt-2 dark:text-gray-100 sm:text-4xl"
+          >
+            <svg
+              class="inline"
+              fill="none"
+              height="40"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+              width="40"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+                stroke="none"
+              />
+              <path
+                d="M6.306 8.711c-2.602 .723 -4.306 1.926 -4.306 3.289c0 2.21 4.477 4 10 4c.773 0 1.526 -.035 2.248 -.102"
+              />
+              <path
+                d="M17.692 15.289c2.603 -.722 4.308 -1.926 4.308 -3.289c0 -2.21 -4.477 -4 -10 -4c-.773 0 -1.526 .035 -2.25 .102"
+              />
+              <path
+                d="M6.305 15.287c-.676 2.615 -.485 4.693 .695 5.373c1.913 1.105 5.703 -1.877 8.464 -6.66c.387 -.67 .733 -1.339 1.036 -1.998"
+              />
+              <path
+                d="M17.694 8.716c.677 -2.616 .487 -4.696 -.694 -5.376c-1.913 -1.105 -5.703 1.877 -8.464 6.66c-.387 .67 -.733 1.34 -1.037 1.999"
+              />
+              <path
+                d="M12 5.424c-1.925 -1.892 -3.82 -2.766 -5 -2.084c-1.913 1.104 -1.226 5.877 1.536 10.66c.386 .67 .793 1.304 1.212 1.896"
+              />
+              <path
+                d="M11.998 18.574c1.926 1.893 3.821 2.768 5.002 2.086c1.913 -1.104 1.226 -5.877 -1.536 -10.66c-.375 -.65 -.78 -1.283 -1.212 -1.897"
+              />
+              <path
+                d="M11.5 12.866a1 1 0 1 0 1 -1.732a1 1 0 0 0 -1 1.732z"
+              />
+            </svg>
+             React Template
+          </p>
+          <p
+            class="max-w-2xl mx-auto mt-6 text-lg leading-8 text-gray-600 dark:text-gray-400"
+          >
+            We really like these tools, so we put them together.
+          </p>
+        </div>
+        <div
+          class="max-w-lg mt-20 sm:mx-auto md:max-w-none"
+        >
+          <div
+            class="grid grid-cols-1 gap-y-16 md:grid-cols-2 md:gap-x-12 md:gap-y-16"
+          >
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M10 4.5l6 -1.5l-2 6.5l2 -.5l-4 7v-5l-3 1z"
+                  />
+                  <path
+                    d="M15 6.5l7 -1.5l-10 17l-10 -17l7.741 1.5"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Vite
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  This template uses Vite. By taking advantage of HMR, this template acheives incredible reload times.
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M11.667 6c-2.49 0 -4.044 1.222 -4.667 3.667c.933 -1.223 2.023 -1.68 3.267 -1.375c.71 .174 1.217 .68 1.778 1.24c.916 .912 2 1.968 4.288 1.968c2.49 0 4.044 -1.222 4.667 -3.667c-.933 1.223 -2.023 1.68 -3.267 1.375c-.71 -.174 -1.217 -.68 -1.778 -1.24c-.916 -.912 -1.975 -1.968 -4.288 -1.968zm-4 6.5c-2.49 0 -4.044 1.222 -4.667 3.667c.933 -1.223 2.023 -1.68 3.267 -1.375c.71 .174 1.217 .68 1.778 1.24c.916 .912 1.975 1.968 4.288 1.968c2.49 0 4.044 -1.222 4.667 -3.667c-.933 1.223 -2.023 1.68 -3.267 1.375c-.71 -.174 -1.217 -.68 -1.778 -1.24c-.916 -.912 -1.975 -1.968 -4.288 -1.968z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Tailwind
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Style your components like never before with Tailwind.
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <circle
+                    cx="6"
+                    cy="18"
+                    r="2"
+                  />
+                  <circle
+                    cx="18"
+                    cy="18"
+                    r="2"
+                  />
+                  <path
+                    d="M6 12v-2a6 6 0 1 1 12 0v2"
+                  />
+                  <path
+                    d="M15 9l3 3l3 -3"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Zustand
+                  <span
+                    class="ml-2"
+                  >
+                    <button
+                      class="p-2 rounded-full dark:hover:bg-white/20 dark:text-white/50 hover:bg-black/20 text-black/50"
+                      role="decrement-button"
+                      type="button"
+                    >
+                      <svg
+                        class="icon icon-tabler icon-tabler-minus"
+                        fill="none"
+                        height="14px"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="14px"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M0 0h24v24H0z"
+                          fill="none"
+                          stroke="none"
+                        />
+                        <line
+                          x1="5"
+                          x2="19"
+                          y1="12"
+                          y2="12"
+                        />
+                      </svg>
+                    </button>
+                    <span
+                      class="ml-2 dark:text-white/70 text-black/70"
+                      role="counter"
+                    >
+                      1
+                    </span>
+                    <span
+                      class="mr-2 dark:text-white/70 text-black/70"
+                    >
+                       bears
+                    </span>
+                    <button
+                      class="p-2 rounded-full dark:hover:bg-white/20 dark:text-white/50 hover:bg-black/20 text-black/50"
+                      role="increment-button"
+                      type="button"
+                    >
+                      <svg
+                        class="icon icon-tabler icon-tabler-plus"
+                        fill="none"
+                        height="14px"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="14px"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M0 0h24v24H0z"
+                          fill="none"
+                          stroke="none"
+                        />
+                        <line
+                          x1="12"
+                          x2="12"
+                          y1="5"
+                          y2="19"
+                        />
+                        <line
+                          x1="5"
+                          x2="19"
+                          y1="12"
+                          y2="12"
+                        />
+                      </svg>
+                    </button>
+                  </span>
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  This Zustand-powered persistent store is ready to count as many bears as you need! Don't worry, we remember how many you counted, so you can come back later and count some more.
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <polyline
+                    points="3 17 9 11 13 15 21 7"
+                  />
+                  <polyline
+                    points="14 7 21 7 21 14"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Progressive Web Application
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Your website, now with push notifications and many other useful PWA features!
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M12 16v.01"
+                  />
+                  <path
+                    d="M12 13a2.003 2.003 0 0 0 .914 -3.782a1.98 1.98 0 0 0 -2.414 .483"
+                  />
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="9"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  TanStack Query
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Interact with APIs like never before! Ask good queries with TanStack Query.
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M15 17.5c.32 .32 .754 .5 1.207 .5h.543c.69 0 1.25 -.56 1.25 -1.25v-.25a1.5 1.5 0 0 0 -1.5 -1.5a1.5 1.5 0 0 1 -1.5 -1.5v-.25c0 -.69 .56 -1.25 1.25 -1.25h.543c.453 0 .887 .18 1.207 .5"
+                  />
+                  <path
+                    d="M9 12h4"
+                  />
+                  <path
+                    d="M11 12v6"
+                  />
+                  <path
+                    d="M21 19v-14a2 2 0 0 0 -2 -2h-14a2 2 0 0 0 -2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2 -2z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  TypeScript
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  This template is written in TypeScript. Bring your types and stay safe!
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M20 8.04l-12.122 12.124a2.857 2.857 0 1 1 -4.041 -4.04l12.122 -12.124"
+                  />
+                  <path
+                    d="M7 13h8"
+                  />
+                  <path
+                    d="M19 15l1.5 1.6a2 2 0 1 1 -3 0l1.5 -1.6z"
+                  />
+                  <path
+                    d="M15 3l6 6"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Vitest with Vitest UI
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Run tests and see their result in the browser! Vitest and Vitest UI are here to help you have a great experience writing tests!
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M21 12a9 9 0 1 1 -18 0a9 9 0 0 1 18 0z"
+                  />
+                  <path
+                    d="M14 9a2 2 0 1 1 -4 0a2 2 0 0 1 4 0z"
+                  />
+                  <path
+                    d="M12 16h.01"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  ESLint & Prettier
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Keeping it clean, on every Ctrl+S.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Snapshot counter tests > should -1 when "decrease" is pressed 1`] = `
+<body>
+  <div>
+    <div
+      class="py-24 bg-white dark:bg-gray-900 sm:py-32 lg:py-40"
+    >
+      <div
+        class="px-6 mx-auto max-w-7xl lg:px-8"
+      >
+        <div
+          class="sm:text-center"
+        >
+          <h2
+            class="text-lg font-semibold leading-8 text-[#FFBD0E]"
+          >
+            inventiff.
+          </h2>
+          <p
+            class="flex justify-center gap-2 text-3xl font-bold tracking-tight text-gray-900 items-centermt-2 dark:text-gray-100 sm:text-4xl"
+          >
+            <svg
+              class="inline"
+              fill="none"
+              height="40"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+              width="40"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+                stroke="none"
+              />
+              <path
+                d="M6.306 8.711c-2.602 .723 -4.306 1.926 -4.306 3.289c0 2.21 4.477 4 10 4c.773 0 1.526 -.035 2.248 -.102"
+              />
+              <path
+                d="M17.692 15.289c2.603 -.722 4.308 -1.926 4.308 -3.289c0 -2.21 -4.477 -4 -10 -4c-.773 0 -1.526 .035 -2.25 .102"
+              />
+              <path
+                d="M6.305 15.287c-.676 2.615 -.485 4.693 .695 5.373c1.913 1.105 5.703 -1.877 8.464 -6.66c.387 -.67 .733 -1.339 1.036 -1.998"
+              />
+              <path
+                d="M17.694 8.716c.677 -2.616 .487 -4.696 -.694 -5.376c-1.913 -1.105 -5.703 1.877 -8.464 6.66c-.387 .67 -.733 1.34 -1.037 1.999"
+              />
+              <path
+                d="M12 5.424c-1.925 -1.892 -3.82 -2.766 -5 -2.084c-1.913 1.104 -1.226 5.877 1.536 10.66c.386 .67 .793 1.304 1.212 1.896"
+              />
+              <path
+                d="M11.998 18.574c1.926 1.893 3.821 2.768 5.002 2.086c1.913 -1.104 1.226 -5.877 -1.536 -10.66c-.375 -.65 -.78 -1.283 -1.212 -1.897"
+              />
+              <path
+                d="M11.5 12.866a1 1 0 1 0 1 -1.732a1 1 0 0 0 -1 1.732z"
+              />
+            </svg>
+             React Template
+          </p>
+          <p
+            class="max-w-2xl mx-auto mt-6 text-lg leading-8 text-gray-600 dark:text-gray-400"
+          >
+            We really like these tools, so we put them together.
+          </p>
+        </div>
+        <div
+          class="max-w-lg mt-20 sm:mx-auto md:max-w-none"
+        >
+          <div
+            class="grid grid-cols-1 gap-y-16 md:grid-cols-2 md:gap-x-12 md:gap-y-16"
+          >
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M10 4.5l6 -1.5l-2 6.5l2 -.5l-4 7v-5l-3 1z"
+                  />
+                  <path
+                    d="M15 6.5l7 -1.5l-10 17l-10 -17l7.741 1.5"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Vite
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  This template uses Vite. By taking advantage of HMR, this template acheives incredible reload times.
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M11.667 6c-2.49 0 -4.044 1.222 -4.667 3.667c.933 -1.223 2.023 -1.68 3.267 -1.375c.71 .174 1.217 .68 1.778 1.24c.916 .912 2 1.968 4.288 1.968c2.49 0 4.044 -1.222 4.667 -3.667c-.933 1.223 -2.023 1.68 -3.267 1.375c-.71 -.174 -1.217 -.68 -1.778 -1.24c-.916 -.912 -1.975 -1.968 -4.288 -1.968zm-4 6.5c-2.49 0 -4.044 1.222 -4.667 3.667c.933 -1.223 2.023 -1.68 3.267 -1.375c.71 .174 1.217 .68 1.778 1.24c.916 .912 1.975 1.968 4.288 1.968c2.49 0 4.044 -1.222 4.667 -3.667c-.933 1.223 -2.023 1.68 -3.267 1.375c-.71 -.174 -1.217 -.68 -1.778 -1.24c-.916 -.912 -1.975 -1.968 -4.288 -1.968z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Tailwind
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Style your components like never before with Tailwind.
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <circle
+                    cx="6"
+                    cy="18"
+                    r="2"
+                  />
+                  <circle
+                    cx="18"
+                    cy="18"
+                    r="2"
+                  />
+                  <path
+                    d="M6 12v-2a6 6 0 1 1 12 0v2"
+                  />
+                  <path
+                    d="M15 9l3 3l3 -3"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Zustand
+                  <span
+                    class="ml-2"
+                  >
+                    <button
+                      class="p-2 rounded-full dark:hover:bg-white/20 dark:text-white/50 hover:bg-black/20 text-black/50"
+                      role="decrement-button"
+                      type="button"
+                    >
+                      <svg
+                        class="icon icon-tabler icon-tabler-minus"
+                        fill="none"
+                        height="14px"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="14px"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M0 0h24v24H0z"
+                          fill="none"
+                          stroke="none"
+                        />
+                        <line
+                          x1="5"
+                          x2="19"
+                          y1="12"
+                          y2="12"
+                        />
+                      </svg>
+                    </button>
+                    <span
+                      class="ml-2 dark:text-white/70 text-black/70"
+                      role="counter"
+                    >
+                      -1
+                    </span>
+                    <span
+                      class="mr-2 dark:text-white/70 text-black/70"
+                    >
+                       bears
+                    </span>
+                    <button
+                      class="p-2 rounded-full dark:hover:bg-white/20 dark:text-white/50 hover:bg-black/20 text-black/50"
+                      role="increment-button"
+                      type="button"
+                    >
+                      <svg
+                        class="icon icon-tabler icon-tabler-plus"
+                        fill="none"
+                        height="14px"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="14px"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M0 0h24v24H0z"
+                          fill="none"
+                          stroke="none"
+                        />
+                        <line
+                          x1="12"
+                          x2="12"
+                          y1="5"
+                          y2="19"
+                        />
+                        <line
+                          x1="5"
+                          x2="19"
+                          y1="12"
+                          y2="12"
+                        />
+                      </svg>
+                    </button>
+                  </span>
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  This Zustand-powered persistent store is ready to count as many bears as you need! Don't worry, we remember how many you counted, so you can come back later and count some more.
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <polyline
+                    points="3 17 9 11 13 15 21 7"
+                  />
+                  <polyline
+                    points="14 7 21 7 21 14"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Progressive Web Application
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Your website, now with push notifications and many other useful PWA features!
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M12 16v.01"
+                  />
+                  <path
+                    d="M12 13a2.003 2.003 0 0 0 .914 -3.782a1.98 1.98 0 0 0 -2.414 .483"
+                  />
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="9"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  TanStack Query
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Interact with APIs like never before! Ask good queries with TanStack Query.
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M15 17.5c.32 .32 .754 .5 1.207 .5h.543c.69 0 1.25 -.56 1.25 -1.25v-.25a1.5 1.5 0 0 0 -1.5 -1.5a1.5 1.5 0 0 1 -1.5 -1.5v-.25c0 -.69 .56 -1.25 1.25 -1.25h.543c.453 0 .887 .18 1.207 .5"
+                  />
+                  <path
+                    d="M9 12h4"
+                  />
+                  <path
+                    d="M11 12v6"
+                  />
+                  <path
+                    d="M21 19v-14a2 2 0 0 0 -2 -2h-14a2 2 0 0 0 -2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2 -2z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  TypeScript
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  This template is written in TypeScript. Bring your types and stay safe!
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M20 8.04l-12.122 12.124a2.857 2.857 0 1 1 -4.041 -4.04l12.122 -12.124"
+                  />
+                  <path
+                    d="M7 13h8"
+                  />
+                  <path
+                    d="M19 15l1.5 1.6a2 2 0 1 1 -3 0l1.5 -1.6z"
+                  />
+                  <path
+                    d="M15 3l6 6"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Vitest with Vitest UI
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Run tests and see their result in the browser! Vitest and Vitest UI are here to help you have a great experience writing tests!
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M21 12a9 9 0 1 1 -18 0a9 9 0 0 1 18 0z"
+                  />
+                  <path
+                    d="M14 9a2 2 0 1 1 -4 0a2 2 0 0 1 4 0z"
+                  />
+                  <path
+                    d="M12 16h.01"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  ESLint & Prettier
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Keeping it clean, on every Ctrl+S.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Snapshot counter tests > should initially be 0 1`] = `
+<body>
+  <div>
+    <div
+      class="py-24 bg-white dark:bg-gray-900 sm:py-32 lg:py-40"
+    >
+      <div
+        class="px-6 mx-auto max-w-7xl lg:px-8"
+      >
+        <div
+          class="sm:text-center"
+        >
+          <h2
+            class="text-lg font-semibold leading-8 text-[#FFBD0E]"
+          >
+            inventiff.
+          </h2>
+          <p
+            class="flex justify-center gap-2 text-3xl font-bold tracking-tight text-gray-900 items-centermt-2 dark:text-gray-100 sm:text-4xl"
+          >
+            <svg
+              class="inline"
+              fill="none"
+              height="40"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+              width="40"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+                stroke="none"
+              />
+              <path
+                d="M6.306 8.711c-2.602 .723 -4.306 1.926 -4.306 3.289c0 2.21 4.477 4 10 4c.773 0 1.526 -.035 2.248 -.102"
+              />
+              <path
+                d="M17.692 15.289c2.603 -.722 4.308 -1.926 4.308 -3.289c0 -2.21 -4.477 -4 -10 -4c-.773 0 -1.526 .035 -2.25 .102"
+              />
+              <path
+                d="M6.305 15.287c-.676 2.615 -.485 4.693 .695 5.373c1.913 1.105 5.703 -1.877 8.464 -6.66c.387 -.67 .733 -1.339 1.036 -1.998"
+              />
+              <path
+                d="M17.694 8.716c.677 -2.616 .487 -4.696 -.694 -5.376c-1.913 -1.105 -5.703 1.877 -8.464 6.66c-.387 .67 -.733 1.34 -1.037 1.999"
+              />
+              <path
+                d="M12 5.424c-1.925 -1.892 -3.82 -2.766 -5 -2.084c-1.913 1.104 -1.226 5.877 1.536 10.66c.386 .67 .793 1.304 1.212 1.896"
+              />
+              <path
+                d="M11.998 18.574c1.926 1.893 3.821 2.768 5.002 2.086c1.913 -1.104 1.226 -5.877 -1.536 -10.66c-.375 -.65 -.78 -1.283 -1.212 -1.897"
+              />
+              <path
+                d="M11.5 12.866a1 1 0 1 0 1 -1.732a1 1 0 0 0 -1 1.732z"
+              />
+            </svg>
+             React Template
+          </p>
+          <p
+            class="max-w-2xl mx-auto mt-6 text-lg leading-8 text-gray-600 dark:text-gray-400"
+          >
+            We really like these tools, so we put them together.
+          </p>
+        </div>
+        <div
+          class="max-w-lg mt-20 sm:mx-auto md:max-w-none"
+        >
+          <div
+            class="grid grid-cols-1 gap-y-16 md:grid-cols-2 md:gap-x-12 md:gap-y-16"
+          >
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M10 4.5l6 -1.5l-2 6.5l2 -.5l-4 7v-5l-3 1z"
+                  />
+                  <path
+                    d="M15 6.5l7 -1.5l-10 17l-10 -17l7.741 1.5"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Vite
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  This template uses Vite. By taking advantage of HMR, this template acheives incredible reload times.
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M11.667 6c-2.49 0 -4.044 1.222 -4.667 3.667c.933 -1.223 2.023 -1.68 3.267 -1.375c.71 .174 1.217 .68 1.778 1.24c.916 .912 2 1.968 4.288 1.968c2.49 0 4.044 -1.222 4.667 -3.667c-.933 1.223 -2.023 1.68 -3.267 1.375c-.71 -.174 -1.217 -.68 -1.778 -1.24c-.916 -.912 -1.975 -1.968 -4.288 -1.968zm-4 6.5c-2.49 0 -4.044 1.222 -4.667 3.667c.933 -1.223 2.023 -1.68 3.267 -1.375c.71 .174 1.217 .68 1.778 1.24c.916 .912 1.975 1.968 4.288 1.968c2.49 0 4.044 -1.222 4.667 -3.667c-.933 1.223 -2.023 1.68 -3.267 1.375c-.71 -.174 -1.217 -.68 -1.778 -1.24c-.916 -.912 -1.975 -1.968 -4.288 -1.968z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Tailwind
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Style your components like never before with Tailwind.
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <circle
+                    cx="6"
+                    cy="18"
+                    r="2"
+                  />
+                  <circle
+                    cx="18"
+                    cy="18"
+                    r="2"
+                  />
+                  <path
+                    d="M6 12v-2a6 6 0 1 1 12 0v2"
+                  />
+                  <path
+                    d="M15 9l3 3l3 -3"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Zustand
+                  <span
+                    class="ml-2"
+                  >
+                    <button
+                      class="p-2 rounded-full dark:hover:bg-white/20 dark:text-white/50 hover:bg-black/20 text-black/50"
+                      role="decrement-button"
+                      type="button"
+                    >
+                      <svg
+                        class="icon icon-tabler icon-tabler-minus"
+                        fill="none"
+                        height="14px"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="14px"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M0 0h24v24H0z"
+                          fill="none"
+                          stroke="none"
+                        />
+                        <line
+                          x1="5"
+                          x2="19"
+                          y1="12"
+                          y2="12"
+                        />
+                      </svg>
+                    </button>
+                    <span
+                      class="ml-2 dark:text-white/70 text-black/70"
+                      role="counter"
+                    >
+                      0
+                    </span>
+                    <span
+                      class="mr-2 dark:text-white/70 text-black/70"
+                    >
+                       bears
+                    </span>
+                    <button
+                      class="p-2 rounded-full dark:hover:bg-white/20 dark:text-white/50 hover:bg-black/20 text-black/50"
+                      role="increment-button"
+                      type="button"
+                    >
+                      <svg
+                        class="icon icon-tabler icon-tabler-plus"
+                        fill="none"
+                        height="14px"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="14px"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M0 0h24v24H0z"
+                          fill="none"
+                          stroke="none"
+                        />
+                        <line
+                          x1="12"
+                          x2="12"
+                          y1="5"
+                          y2="19"
+                        />
+                        <line
+                          x1="5"
+                          x2="19"
+                          y1="12"
+                          y2="12"
+                        />
+                      </svg>
+                    </button>
+                  </span>
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  This Zustand-powered persistent store is ready to count as many bears as you need! Don't worry, we remember how many you counted, so you can come back later and count some more.
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <polyline
+                    points="3 17 9 11 13 15 21 7"
+                  />
+                  <polyline
+                    points="14 7 21 7 21 14"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Progressive Web Application
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Your website, now with push notifications and many other useful PWA features!
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M12 16v.01"
+                  />
+                  <path
+                    d="M12 13a2.003 2.003 0 0 0 .914 -3.782a1.98 1.98 0 0 0 -2.414 .483"
+                  />
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="9"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  TanStack Query
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Interact with APIs like never before! Ask good queries with TanStack Query.
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M15 17.5c.32 .32 .754 .5 1.207 .5h.543c.69 0 1.25 -.56 1.25 -1.25v-.25a1.5 1.5 0 0 0 -1.5 -1.5a1.5 1.5 0 0 1 -1.5 -1.5v-.25c0 -.69 .56 -1.25 1.25 -1.25h.543c.453 0 .887 .18 1.207 .5"
+                  />
+                  <path
+                    d="M9 12h4"
+                  />
+                  <path
+                    d="M11 12v6"
+                  />
+                  <path
+                    d="M21 19v-14a2 2 0 0 0 -2 -2h-14a2 2 0 0 0 -2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2 -2z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  TypeScript
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  This template is written in TypeScript. Bring your types and stay safe!
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M20 8.04l-12.122 12.124a2.857 2.857 0 1 1 -4.041 -4.04l12.122 -12.124"
+                  />
+                  <path
+                    d="M7 13h8"
+                  />
+                  <path
+                    d="M19 15l1.5 1.6a2 2 0 1 1 -3 0l1.5 -1.6z"
+                  />
+                  <path
+                    d="M15 3l6 6"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  Vitest with Vitest UI
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Run tests and see their result in the browser! Vitest and Vitest UI are here to help you have a great experience writing tests!
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div
+                class="flex items-center justify-center w-12 h-12 text-white bg-[#ffbf0edb] rounded-xl sm:shrink-0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="w-8 h-8"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                    stroke="none"
+                  />
+                  <path
+                    d="M21 12a9 9 0 1 1 -18 0a9 9 0 0 1 18 0z"
+                  />
+                  <path
+                    d="M14 9a2 2 0 1 1 -4 0a2 2 0 0 1 4 0z"
+                  />
+                  <path
+                    d="M12 16h.01"
+                  />
+                </svg>
+              </div>
+              <div
+                class="sm:min-w-0 sm:flex-1"
+              >
+                <p
+                  class="text-lg font-semibold leading-8 text-gray-900 dark:text-gray-100"
+                >
+                  ESLint & Prettier
+                </p>
+                <p
+                  class="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400"
+                >
+                  Keeping it clean, on every Ctrl+S.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
