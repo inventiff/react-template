@@ -15,7 +15,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
     }),
     htmlPlugin({
-      favicon: 'favicon.svg',
+      favicon: '/favicon.svg',
       title: 'React Inventiff',
     }),
   ],
